@@ -1,0 +1,200 @@
+'Home is where you park it': NaN
+'DC Metro (Alexandria, VA)': 'USA'
+'barcelona': 'Spain'
+'JJM_Digimedia@mas.to': NaN
+'past, present, or future': NaN
+'Bloomington MN USA': 'USA'
+'LEO': NaN
+'present': NaN
+'Cape Town/Johannesburg': 'South Africa'
+'Pacific Northwest, USA': 'USA'
+'SEA via NYC': 'USA'
+'Guelph, Ontario': 'Canada'
+'hint: not on Mars': NaN
+'CA, WA, PA and coming to TX': 'USA'
+'Republic of Texas': 'USA'
+'Alicante, Spain': 'Spain'
+'Barna, Galway, Ireland': 'Ireland'
+'Birmingham, UK': 'UK'
+'Cubicle 372': NaN
+'Hither Thither & Yon': NaN
+'Bay Area, Ca': 'USA'
+'The Royal Forest of Dean': 'UK'
+'Hindustan': NaN
+'Ottawa, ON': 'Canada'
+'fortblocks.eth': NaN
+'Digital Ötüken': 'NaN'
+'Simulation': NaN
+'jubitter': NaN
+'Madrid, España (de Gijón)': 'Spain'
+'Columbus, Ohio': 'USA'
+'JFK LGA and sometimes even EWR': 'USA'
+'Shrewsbury & London, UK': 'UK'
+'Queens, NY': 'USA'
+'Red Bank, NJ': 'USA'
+'Time, maybe Space as well': NaN
+'Manhattan': 'USA'
+'Ontario Canada': 'Canada'
+'Battle Creek, Michigan': 'USA'
+'Balam': NaN
+'Not a financial advice': NaN
+'Central Finland, Finland': 'Finland'
+'Sauk Rapids, MN': 'USA'
+'In a worm hole 🕳️': NaN
+'Birmingham': 'UK'
+'Querétaro Arteaga, México': 'Mexico'
+'Jamnagar, India': 'India'
+'Newcastle Upon Tyne, England': 'UK'
+'location-location-location': NaN
+'Rijswijk': 'Netherlands'
+'Ancaster, ON. Canada': 'Canada'
+'Floki Viking': NaN
+'SINGAPORE': 'Singapore'
+'Gambia': 'Gambia'
+'NAIROBI': 'Kenya'
+'Playa del Carmen, Mexico': 'Mexico'
+'The State of Privacy': NaN
+'Canary Islands, Spain': 'Spain'
+'Zuerich': 'Switzerland'
+'New York City and London': NaN
+'Charlton, London': 'UK'
+'Karnataka, India': 'India'
+'Nijmegen, Nederland': 'Netherlands'
+'Davidson, NC': 'USA'
+'North of Vegas': NaN
+'Richmond & LA': NaN
+'Medchal, India': 'India'
+'GPT-verse': NaN
+'Tampa Bay, Florida': 'USA'
+'Newport News, Virginia': 'USA'
+'Trikonverse': NaN
+'Cleveland, Ohio': 'USA'
+'Aberdeen': 'UK'
+'Lagos': 'Nigeria'
+'Big Blue Marble': NaN
+'York': 'UK'
+'At the Table of course': NaN
+'the earth': NaN
+'The United States of America': 'USA'
+'Hovering near the exit': NaN
+'Reading UK': 'UK'
+'Location: All Over the Place': NaN
+'Beijing, Chengdu': 'China'
+'Paris, FR': 'France'
+'Helve AVR x Red Reality Ops': NaN
+'Kingdom of Northumbria': 'UK'
+'Encino, Los Angeles': 'USA'
+'Europe, SE Asia, North America': NaN
+'Novi Sad': 'Serbia'
+'Pretoria': 'South Africa'
+'London Ontario': 'Canada'
+'Tijuana, Baja California': 'Mexico'
+'Auvergne, France': 'France'
+'Haleiwa': 'USA'
+'Madurai': 'India'
+'Rotterdam, The Netherlands': 'Netherlands'
+'St. Louis': 'USA'
+'ノルウェー': 'Norway'
+'Tiruppur, India': 'India'
+'London, Madrid, Alicante': NaN
+'Loading...': NaN
+'Saint Neots, England': 'UK'
+'North Chicago': 'USA'
+'Lincoln, NE': 'USA'
+'Outside the simulation': NaN
+'Long Beach Island, NJ': 'USA'
+'Auroville': 'NaN'
+'Ann Arbor, MI, USA': 'USA'
+'Snapchat - Macos3': NaN
+'Garden Of Earthly Delights': NaN
+'Sintra': 'Portugal'
+'Sydney 🇦🇺 Australia': 'Australia'
+'London, SE22': 'UK'
+'Hyderabad | Bengaluru, India': 'India'
+'Albany, NY': 'USA'
+'Goa India': 'India'
+'Meridianville, AL': 'USA'
+'Ghent, Belgium': 'Belgium'
+'Milkyway Galaxy': NaN
+'Cloud Nine': NaN
+'Carlisle, PA': 'USA'
+'Uzbekistan, Tashkent': 'Uzbekistan'
+'Palmer, AK': 'USA'
+'Nampa, ID': 'USA'
+'FL': 'USA'
+'San Francisco Bay Area, USA': 'USA'
+'Hawa Hawai': NaN
+'Stavanger, Norge': 'Norway'
+'TAMU, College Station': 'USA'
+'in transit': NaN
+'Pocatello, ID': 'USA'
+'Houston, Texas 77074, USA': 'USA'
+'Minsk': 'Belarus'
+'England, Manchester': 'UK'
+'Lorraine, France': 'France'
+'Sud 🇮🇹': 'Italy'
+'anywhere': NaN
+'Somewhere in Canada I think': 'Canada'
+'Lenexa, KS': 'USA'
+'Los Altos, CA': 'USA'
+'Wedding, Berlin': 'Germany'
+'Málaga, Spain.': 'Spain'
+'boulder, co': 'USA'
+'Hamburg': 'Germany'
+'In your network': NaN
+'🇬🇧🇨🇦🇮🇳': NaN
+'Bloomington, IN': 'USA'
+'Cartagena, España': 'Spain'
+'22.5726° N, 88.3639° E': NaN
+'Las Vegas & San Diego': 'USA'
+'San Clemente': 'USA'
+'HA NOI': 'Vietnam'
+'West Coast': NaN
+'Lynden, WA': 'USA'
+'Evil League of Evil': NaN
+'Amsterdam': 'Netherlands'
+'Chippenham, England': 'UK'
+'Palma 🌴': NaN
+'Harlem, NYC': 'USA'
+'Hemel Hempstead, Herts': 'UK'
+'2nd litterbox on the left, USA': 'USA'
+'Los Altos Hills, CA': 'USA'
+'Sant Boi de Llobregat': 'Spain'
+'Brooklyn, NY': 'USA'
+'dc / nova': NaN
+'Seattle 🇺🇸 Medellin 🇨🇴': NaN
+'Travelling the world': NaN
+'Praha, Česká republika': 'Czech Republic'
+'Scottsdale, Arizona': 'USA'
+'📧minaco@photographer.net': NaN
+'youtube.com/dataprofessor': NaN
+'astasiamyers.com': NaN
+'Paris ✅ SEO': 'France'
+'Mastodon : @quentin@quent1.fr': NaN
+'Birmingham,AL': 'USA'
+'Sandy, UT': 'USA'
+'Tres Cantos, España': 'Spain'
+'Gävle, Sweden': 'Sweden'
+'Ismalia, Egypt': 'Egypt'
+'CO/NYC/LA': NaN
+'New Delhi,India': 'India'
+'San Francisco, USA': 'USA'
+'Chattanooga | Alph': NaN
+'Timbuck tu': NaN
+'Melbourne & Nagpur': NaN
+'Wall Street, USA': 'USA'
+'Trondheim; Norway': 'Norway'
+'v v nagar': 'India'
+'Jackson Heights': 'USA'
+'Broomfield, Colorado USA': 'USA'
+'chikkanayakanahalli Mysuru': 'India'
+'Conservation Officer for @WildTroutTrust, Part time manager of @WAPAngling and @fishpassapp': NaN
+'Pittsburgh, USA': 'USA'
+'Somewhere on earth': NaN
+'HQ: San Francisco, CA': 'USA'
+'Evanston, IL': 'USA'
+'Lviv, Ukraine': 'Ukraine'
+'1930's at a painters rally': NaN
+'reality': NaN
+'Lilongwe, Mw': 'Malawi'
+'Spokane Valley, WA': 'USA',
